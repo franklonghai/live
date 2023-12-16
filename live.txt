@@ -936,3 +936,17 @@ NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
+影视综合,#genre#
+漫威电影,http://epg.112114.xyz/douyu/4282654
+神乐影片2,http://epg.112114.xyz/douyu/85894
+周末影院,http://epg.112114.xyz/douyu/3637765
+CCTV放映室,http://epg.112114.xyz/douyu/10011042
+特辑影院,http://epg.112114.xyz/douyu/3637778
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
+北京大蜜,http://epg.112114.xyz/douyu/805235
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
+CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
+新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
+新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
