@@ -118,9 +118,9 @@ CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/22
 CCTV16-4K,http://php.jdshipin.com:8880/cqyx.php?id=CCTV16_4K
 CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16-4K,http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
-CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16-4K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
@@ -128,24 +128,24 @@ CCTV3.超清,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3
 CCTV6.超清,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8.超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 
-CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV-2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV-5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-CCTV-6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-CCTV-7, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
-CCTV-8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-CCTV-9,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
-CCTV-10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
-CCTV-11,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-CCTV-12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV-13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
-CCTV-14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-CCTV-15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV-17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV7, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+CCTV9,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV11,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 
 CCTV1,http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=
 CCTV1,http://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad.flv
